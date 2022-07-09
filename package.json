@@ -1,0 +1,27 @@
+{
+  "name": "twitter-movie-finder",
+  "version": "1.0.0",
+  "description": "Sample project for getting movie tweets from twitter's API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mcnoble1/twitter-movie-finder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mcnoble1/twitter-movie-finder/issues"
+  },
+  "homepage": "https://github.com/Mcnoble1/twitter-movie-finder#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "request": "^2.88.2",
+    "socket.io": "^4.5.1"
+  }
+}
